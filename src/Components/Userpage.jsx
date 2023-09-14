@@ -12,8 +12,9 @@ const Userpage = () => {
         <h1 className='text-6xl p-5'>Generation Thailand</h1>
         <p className='text-5xl p-5'>Home User-Sector</p>
         <ButtonSector />
-        <UserTable />
       </main>
+      <UserTable />
+
     </>  )
 }
 
